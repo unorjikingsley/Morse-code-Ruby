@@ -42,4 +42,5 @@ class MorseCodeDecoder
 end
 
 puts MorseCodeDecoder.decode('-- -.--   -. .- -- .')
+
 puts MorseCodeDecoder.decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
